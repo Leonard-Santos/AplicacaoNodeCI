@@ -1,0 +1,1 @@
+[![Pipeline](https://github.com/Leonard-Santos/AplicacaoNodeCI/actions/workflows/Pipeline/badge.svg)]
