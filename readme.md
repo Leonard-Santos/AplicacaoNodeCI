@@ -1,0 +1,1 @@
+[![Tests](https://github.com/Leonard-Santos/AplicacaoNodeCI/actions/workflows/Tests.yml/badge.svg)](https://github.com/Leonard-Santos/AplicacaoNodeCI/actions/workflows/Tests.yml)
