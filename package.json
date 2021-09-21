@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "jest --ci"
+    "test": "jest --ci",
+    "test.ci": "jest --ci"
   },
   "keywords": [],
   "author": "",
